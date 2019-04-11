@@ -1,0 +1,12 @@
+[package]
+name = "dynamic_dns"
+version = "1.0.0"
+authors = ["kabii <1054738+kabiiQ@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+serde = { version = "1.0.90", features = ["derive"] }
+serde_json = "1.0.39"
+toml = "0.5.0"
+url = "1.7.2"
+reqwest = "0.9.13"
