@@ -1,5 +1,9 @@
 # dynamic_dns_cloudflare
 
+### Support the Developer
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5AF13X)
+
 Made this application for my own use (and as a first project in Rust). If you have a use for a self-hosted DNS updater and use Cloudflare, I've improved it to be easily configurable.
 
 ## Binary Download
